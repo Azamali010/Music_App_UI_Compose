@@ -1,4 +1,4 @@
-> *JetPack*
+# *JetPack Compose*
 * Compose - Modern toolkit for building native UI.
 * Lifecycle - Create a UI that automatically responds to lifecycle events.
 * LiveData - Notify domain layer data to views.
