@@ -1,9 +1,9 @@
 > *JetPack*
-> > Compose - Modern toolkit for building native UI.
->> Lifecycle - Create a UI that automatically responds to lifecycle events.
-> > LiveData - Notify domain layer data to views.
-> > Navigation - Handle everything needed for in-app navigation.
-> > ViewModel - UI related data holder, lifecycle aware.
+* Compose - Modern toolkit for building native UI.
+* Lifecycle - Create a UI that automatically responds to lifecycle events.
+* LiveData - Notify domain layer data to views.
+* Navigation - Handle everything needed for in-app navigation.
+* ViewModel - UI related data holder, lifecycle aware.
 
 <img width="194" alt="ss2" src="https://github.com/Azamali010/Music_App_UI_Compose/assets/117804536/766bb96f-a3ce-422e-a465-0538f52ebb11">
 <img width="194" alt="ss2" src="https://github.com/Azamali010/Music_App_UI_Compose/assets/117804536/cfcbdaf5-e820-4e6b-8730-377bb6f5ff6a">
